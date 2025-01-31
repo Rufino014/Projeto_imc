@@ -1,2 +1,2 @@
 # Projeto_imc
-Um mino projeto em Python para calcular IMC
+Um mini projeto em Python para calcular IMC
